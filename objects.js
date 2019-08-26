@@ -35,7 +35,7 @@ const findNlogEmployeeStatus = (employee) => {
 
 findNlogEmployeeStatus(person);
 
-findNlogEmployeeStatus({
-    name: prompt('Enter Employee Name'),
-    status: ''
-});
+// findNlogEmployeeStatus({
+//     name: prompt('Enter Employee Name'),
+//     status: ''
+// });
